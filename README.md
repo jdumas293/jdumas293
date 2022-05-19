@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Joseph!
-- 👀 I’m interested in traveling and golf.
+- 👀 I’m interested in learning to code, traveling, and golf.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: jdumas293@gmail.com
 

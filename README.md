@@ -26,6 +26,6 @@
   <img src="https://img.shields.io/badge/Render-informational?style=for-the-badge&logo=render&logoColor=%5bdec3" />
 </p>
 
-<br />
+<!-- <br /> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jdumas293&theme=aura)](https://git.io/streak-stats) 
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=jdumas293&theme=aura)](https://git.io/streak-stats)  -->

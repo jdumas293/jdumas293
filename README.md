@@ -2,8 +2,7 @@
 
 - 👋 Hi, my name is Joseph!
 - 👀 I’m interested in golf and travel.
-- 🌱 I’m currently learning Supabase.
-- 📫 How to reach me: jdumas293@gmail.com | <a href="https://www.linkedin.com/in/josephdumas16/" target="_blank">LinkedIn</a> | <a href="https://wellfound.com/u/joseph-dumas" target="_blank">Wellfound</a>
+- 📫 How to reach me: jdumas293@gmail.com | <a href="https://www.linkedin.com/in/josephdumas16/" target="_blank">LinkedIn</a>
 
 <br />
 
